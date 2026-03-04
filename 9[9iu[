@@ -1,0 +1,4 @@
+cd ~/12345  # اذهب لمجلد المشروع
+git init  # إنشاء مستودع git محلي
+git add .  # إضافة كل الملفات
+git commit -m "Initial commit"  # أول commit
